@@ -1,0 +1,16 @@
+html {
+    font-size: 62.5%;
+}
+body{
+    margin: 0;
+    background-color: #CCC;
+    background: url(../assets/images/arch-bridge-clouds-814499.jpg) no-repeat;
+    background-size: cover;
+}
+
+.experimental-div {
+    font-size: 1.5rem;
+    color: #FFF;
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
